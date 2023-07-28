@@ -11,7 +11,7 @@ This project performs sentiment analysis on restaurant reviews using Natural Lan
 - NumPy
 - NLTK (Natural Language Toolkit)
 - scikit-learn
-
+- MatplotLib
 
 ## Getting Started
 
